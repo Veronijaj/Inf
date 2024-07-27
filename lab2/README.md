@@ -10,7 +10,7 @@ $\arccos{x}=2\pi-\arcsin{x} = \sum_{n=1}^\infty \cfrac{(2n)!}{4^n(n!)^2(2n+1)}x^
 иметь возможность указать количество членов ряда, которое необходимо использовать при 
 вычислениях.
 
-![Tux, the Linux mascot](https://github.com/Veronijaj/Inf/blob/main/lab1/diagram(1).png)
+![Diagram1](https://github.com/Veronijaj/Inf/blob/main/lab1/diagram%20(1).png)
 
 ### Программа № 2 
 должна обеспечивать возможность вычисления значения функции при 
