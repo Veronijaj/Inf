@@ -8,3 +8,4 @@
 3.	Использование условного оператора if и цикла for.
 4.	Выполнение простейших арифметических операций над целочисленными операндами.
 ![Tux, the Linux mascot](https://github.com/Veronijaj/Inf/blob/main/lab1/flowchart.png)
+###### Блок-схема
